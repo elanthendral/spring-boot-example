@@ -5,10 +5,10 @@
 	<parent>
 		<!-- Your own application should inherit from spring-boot-starter-parent -->
 		<groupId>org.springframework.boot</groupId>
-		<artifactId>spring-boot-samples</artifactId>
+		<artifactId>spring-boot-example</artifactId>
 		<version>${revision}</version>
 	</parent>
-	<artifactId>spring-boot-sample-atmosphere</artifactId>
+	<artifactId>spring-boot-example</artifactId>
 	<name>Spring Boot Atmosphere Sample</name>
 	<description>Spring Boot Atmosphere Sample</description>
 	<properties>
